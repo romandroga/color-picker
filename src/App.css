@@ -1,0 +1,9 @@
+body{
+    background-color: #F6F6F6;
+    font-family: Consolas, sans-serif;
+    text-transform: uppercase;
+    color: #98999B;
+}
+button{
+    cursor: pointer;
+}
